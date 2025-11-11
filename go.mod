@@ -1,4 +1,4 @@
-module imgscale
+module github.com/kitsunemikan/imgscale
 
 go 1.21.6
 
