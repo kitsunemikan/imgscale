@@ -29,7 +29,7 @@ imgscale -i input.png -o output2.jpeg -sx 0.25
 imgscale -i input.png -o output3.jpeg -ow 512 -oh 512
 
 # resize to HD + nearest neighbor resampling
-imgscale -i input.png -o output4.jpen -maxside 1280 -r nearest
+imgscale -i input.png -o output4.jpeg -maxside 1280 -r nearest
 
 # show help + available resampling algorithms
 imgscale -help
